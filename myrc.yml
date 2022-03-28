@@ -17,6 +17,6 @@ spec:
      spec:
         containers:
         - name: myonlinestore-container   
-          image: skumarjp555 / javaimage1303:1
+          image: skumarjp555/javaimage1303:1
           ports:
           - containerPort: 8080
